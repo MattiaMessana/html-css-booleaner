@@ -36,4 +36,14 @@ header{
     em{
         background-color:  yellow;
     }
-    
+    thead{
+        background-color: skyblue;
+    }
+    .tabella{
+        background-color: lightblue;
+    }
+    table{
+        border-collapse: collapse;
+        width: 100%;
+        text-align: justify;
+    }
